@@ -1,0 +1,55 @@
+.container{
+    width: 40%;
+    margin-top: 50px;
+    background-color: rgb(100, 199, 238);
+    border: none;
+    padding: 30px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    color: #000;
+}
+button{
+    margin-left: 10px;
+    background-color: transparent;
+    color: rgb(4, 55, 63);
+    border-radius: 5px;
+    width: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.list{
+    margin-top: 30px !important ;
+
+}
+li{
+    margin-bottom: 15px;
+    margin-left: -12px;
+    background-color: rgb(198, 206, 218) !important;
+    color: rgb(8, 10, 10);
+    border: none!important; 
+    border-radius: 5px;
+}
+.list-items{
+    display: flex;
+    flex: 1;
+    padding-left: 5px;
+    font-size: 25px;
+    cursor: pointer;
+    align-items: end;
+}
+
+
+#delete{
+   
+    color: rgb(0, 25, 25);
+}
+
+body{
+  
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
